@@ -29,5 +29,5 @@ Upload the dataset file OnlineNewsPopularity.csv when prompted.
 
 Run through the notebook to clean data, train models, and make predictions.
 
-#Key Takeaways
+Key Takeaways
 Among the models tested, CatBoost and XGBoost gave the most accurate results. These models were particularly effective at handling the dataset's mix of numerical and categorical features.
